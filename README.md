@@ -1,5 +1,5 @@
 # Mathematical Spirals Educational Video
-
+# Site & Product Under Control by Ascender Intern - Nathishwar & Lavanya
 A comprehensive 5-minute educational video exploring the fascinating world of mathematical spirals, created using the Manim Python library.
 
 ## Video Content Overview
@@ -177,5 +177,5 @@ This educational content is designed for learning and teaching purposes. Please 
 
 ---
 
-**Created by AI Video Generation Specialist**  
+**Created by AI Video Generation Specialist Lavanya & Nathishwar **  
 *Transforming complex mathematical concepts into visually stunning educational experiences*

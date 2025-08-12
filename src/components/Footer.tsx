@@ -58,7 +58,7 @@ export function Footer() {
                 Questions? Feedback?
               </p>
               <a href="mailto:support@manimgenerator.com" className="text-indigo-400 hover:text-indigo-300 text-sm">
-                support@manimgenerator.com
+                support@ascender.com
               </a>
             </div>
           </div>

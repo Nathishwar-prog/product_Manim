@@ -1,11 +1,3 @@
-"""
-Mathematical Spirals in Nature - Educational Video
-A 5-minute Manim animation exploring Fibonacci sequence, golden ratio, and natural spirals
-
-Author: AI Video Generation Specialist
-Duration: ~5 minutes
-Resolution: 1080p
-"""
 
 from manim import *
 import numpy as np
@@ -586,9 +578,4 @@ class ThreeDSpiral(ThreeDScene):
 
 
 if __name__ == "__main__":
-    # To render this video, run:
-    # manim -pqh mathematical_spirals.py MathematicalSpirals
-    # 
-    # For 3D version:
-    # manim -pqh mathematical_spirals.py ThreeDSpiral
     pass
